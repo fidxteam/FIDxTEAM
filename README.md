@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/c4d-human-ai-1n92xKzlFslC75CUzG"  />
+  <img height="150" src="https://mhankbarbar.codes/assets/images/bocchi.png"  />
 </div>
 
 ###
