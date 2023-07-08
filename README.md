@@ -1,8 +1,10 @@
-<h2 align="left">Hi 👋!<br>Hallo, Perkenalkan Saya 𝗙𝗮𝗿𝗿𝗲𝗹𝗹 𝗔𝘁𝗵𝗮𝗿 𝗥.<br>Saya berasal dari 𝗕𝗲𝗸𝗮𝘀𝗶, 𝗝𝗮𝘄𝗮 𝗕𝗮𝗿𝗮𝘁.<br>Saat ini Saya tinggal di 𝗠𝗮𝗴𝗲𝘁𝗮𝗻, 𝗝𝗮𝘄𝗮 𝗧𝗶𝗺𝘂𝗿.<br>dan juga Saya bersekolah di 𝗦𝗠𝗔 𝗡𝗘𝗚𝗘𝗥𝗜 𝟭 𝗞𝗔𝗥𝗔𝗦.</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/fidxteam/count.svg?"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://youtube.com/p/@farrellid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -17,21 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fidxteam/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fidxteam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fidxteam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fidxteam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fidxteam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fidxteam/fidxteam/output/snake.svg" alt="Snake animation" />
 
 ###
 
