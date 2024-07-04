@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -49,6 +45,6 @@
   </a>
 </div>
 
-
+###
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=ParrellID&row=2&column=3"/>
 ###
