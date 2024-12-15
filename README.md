@@ -41,4 +41,4 @@
 </div>
 
 ###
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=fidxteam&row=2&column=3"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=adrianhajdin&row=2&column=3"/>
