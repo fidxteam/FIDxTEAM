@@ -1,6 +1,4 @@
-<div align="center">
-  <img src=""  />
-</div>
+
 
 <h2 align="center">Hello, My Name is ParrellID 👋</h2>
 
