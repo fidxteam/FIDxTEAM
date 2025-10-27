@@ -11,10 +11,6 @@ Currently juggling life between **school**, **freelance projects**, and **tech e
 
 ---
 
-### 🐍 Python Playground
-I also use **Python** for automation, AI, and data tasks.  
-Hereâ€™s a mini snippet that represents my daily dev vibe ⬇️
-
 ```python
 from datetime import datetime
 
