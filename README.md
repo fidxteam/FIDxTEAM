@@ -94,5 +94,5 @@ class FARxTEAM:
 </p>
 
 <p align="center">
-  ðŸ’¡ <b>Always building something new under FARxTEAM.</b>
+  💡 <b>Always building something new under FARxTEAM.</b>
 </p>
