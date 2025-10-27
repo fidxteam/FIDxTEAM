@@ -9,21 +9,6 @@ Freelancer | Web Developer | Creative Problem Solver
 I'm a passionate developer who loves to build clean, efficient, and meaningful digital products.  
 Currently juggling life between **school**, **freelance projects**, and **tech exploration** — because why not challenge myself every day?
 
-
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **Japanese Language**
-- 🧩 Interests: Web Dev, UI/UX, Automation, and AI Integration
-- 🛠️ Freelance projects under **FARxTEAM** brand
-- ⚙️ Always exploring new frameworks, tech stacks, and better workflow systems
-
----
-
-### 🧰 Tech Stack
-**Frontend:** React.js, Next.js, TailwindCSS, Vite  
-**Backend:** Node.js, Express, Firebase, Supabase  
-**Database:** MySQL, PostgreSQL, MongoDB  
-**Programming Languages:** Python, JavaScript, TypeScript, C++  
-**Tools & Others:** Git, VSCode, Figma, Linux, Docker, Postman  
-
 ---
 
 ### 🐍 Python Playground
@@ -68,7 +53,7 @@ class FARxTEAM:
 
 ---
 
-### 🏆 Achievements & Highlights Achievements & Highlights
+### 🏆 Achievements & Highlights
 - 💼 Collaborating with clients across Indonesia through **freelance & community projects**  
 - 🎯 Built multiple web-based systems for education and productivity  
 - 🧠 Continuously improving technical & creative problem-solving mindset  
