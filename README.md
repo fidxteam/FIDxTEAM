@@ -1,39 +1,98 @@
+# 👋 Hey there, I'm Farrell (a.k.a. fidxteam)
+
+💻 Software Engineer • 🎓 Student • 🧠 Tech Enthusiast  
+Freelancer | Web Developer | Creative Problem Solver 
+
+---
+
+### 🚀 About Me
+I'm a passionate developer who loves to build clean, efficient, and meaningful digital products.  
+Currently juggling life between **school**, **freelance projects**, and **tech exploration** — because why not challenge myself every day?
 
 
-<h2 align="center">Hello, My Name is ParrellID 👋</h2>
+- 🌱 Currently learning **Next.js**, **TypeScript**, and **Japanese Language**
+- 🧩 Interests: Web Dev, UI/UX, Automation, and AI Integration
+- 🛠️ Freelance projects under **FARxTEAM** brand
+- ⚙️ Always exploring new frameworks, tech stacks, and better workflow systems
 
-###
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  </div>
+### 🧰 Tech Stack
+**Frontend:** React.js, Next.js, TailwindCSS, Vite  
+**Backend:** Node.js, Express, Firebase, Supabase  
+**Database:** MySQL, PostgreSQL, MongoDB  
+**Programming Languages:** Python, JavaScript, TypeScript, C++  
+**Tools & Others:** Git, VSCode, Figma, Linux, Docker, Postman  
 
-###
+---
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCaUv6Wq8SaBIAu80hftviFA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/farrellatharr_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:farrellatharr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+### 🐍 Python Playground
+I also use **Python** for automation, AI, and data tasks.  
+Hereâ€™s a mini snippet that represents my daily dev vibe ⬇️
+
+```python
+from datetime import datetime
+
+class FARxTEAM:
+    def __init__(self, name, alias, focus):
+        self.name = farrell
+        self.alias = farrellid
+        self.location = "Magetan / Madiun, Indonesia"
+        self.role = ["Student", "Freelancer", "Software Engineer", "Web Developer"]
+        self.brand = "FARxTEAM"
+        self.focus = ["Full Stack Development", "UI/UX", "Automation", "Digital Product Design"]
+        self.learning = ["Next.js", "TypeScript", "Tailwind CSS", "Node.js", "Trading Automation"]
+        self.projects = ["Educational Platform", "Business Website", "Trading Bot", "Freelance Tools"]
+    
+    def get_expertise(self):
+        return {
+            "languages": ["JavaScript", "TypeScript", "Python", "C++", "PHP"],
+            "frontend": ["React.js", "Next.js", "Vite", "Tailwind CSS"],
+            "backend": ["Node.js", "Express", "Firebase", "Supabase"],
+            "database": ["MySQL", "PostgreSQL", "MongoDB"],
+            "specialties": ["Web Development", "System Design", "Trading Automation", "Freelance Workflow"],
+            "tools": ["VS Code", "Git", "Linux", "Figma", "Postman"]
+        }
+    
+    def current_status(self):
+        return "Currently building cool stuff under FARxTEAM & expanding creative tech boundaries! ⚡"
+```
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fidxteam&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidxteam&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🏆 Achievements & Highlights Achievements & Highlights
+- 💼 Collaborating with clients across Indonesia through **freelance & community projects**  
+- 🎯 Built multiple web-based systems for education and productivity  
+- 🧠 Continuously improving technical & creative problem-solving mindset  
+- ⚡ Always on the lookout for the next big idea  
+
+---
+
+### 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://farrellid-gacor.vercel.app)  
+[![Instagram](https://img.shields.io/badge/@farrellatharr_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farrellatharr_)  
+[![LinkedIn](https://img.shields.io/badge/Farrell_Athar_R-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.farrell@gmail.com)
+
+---
+
+### 💬 Quote
+> *"Code like an artist, think like an entrepreneur, and move like a creator."*
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fidxteam&theme=onedark&margin-w=10" />
+</p>
+
+<p align="center">
+  ðŸ’¡ <b>Always building something new under FARxTEAM.</b>
+</p>
