@@ -90,9 +90,5 @@ class FARxTEAM:
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fidxteam&theme=onedark&margin-w=10" />
-</p>
-
-<p align="center">
   💡 <b>Always building something new under FARxTEAM.</b>
 </p>
