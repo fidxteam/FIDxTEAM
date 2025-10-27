@@ -5,12 +5,6 @@ Freelancer | Web Developer | Creative Problem Solver
 
 ---
 
-### 🚀 About Me
-I'm a passionate developer who loves to build clean, efficient, and meaningful digital products.  
-Currently juggling life between **school**, **freelance projects**, and **tech exploration** — because why not challenge myself every day?
-
----
-
 ```python
 from datetime import datetime
 
