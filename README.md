@@ -6,7 +6,8 @@ Freelancer | Web Developer | Creative Problem Solver
 ---
 
 ```python
-from datetime import datetime
+from datetime
+import datetime
 
 class FARxTEAM:
     def __init__(self, name, alias, focus):
