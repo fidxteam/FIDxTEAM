@@ -35,20 +35,17 @@ class FARxTEAM:
 ```
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fidxteam&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fidxteam&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fidxteam&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fidxteam&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidxteam&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fidxteam&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=fidxteam&icon=0&color=11)](https://visitcount.itsvg.in)
 
-### 🏆 Achievements & Highlights
-- 💼 Collaborating with clients across Indonesia through **freelance & community projects**  
-- 🎯 Built multiple web-based systems for education and productivity  
-- 🧠 Continuously improving technical & creative problem-solving mindset  
-- ⚡ Always on the lookout for the next big idea  
 
 ---
 
